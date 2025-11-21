@@ -37,8 +37,11 @@ This application is deployed using GitHub Pages and is accessible at: https://gi
 Technology Stack
 
 HTML5, CSS3, JavaScript
+
 Font Awesome for icons
+
 Session Storage for user authentication
+
 Bootstrap 5 for responsive design
 
 
